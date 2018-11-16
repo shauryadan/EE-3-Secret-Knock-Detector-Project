@@ -1,4 +1,4 @@
-# EE-3-Secret-Knock-Detector-Project
+# Secret-Knock-Detector-Project
 The goal of this project was to design and fabricate a device that could unlock a door after receiving a specific secret knock sequence. 
 To establish portability, a mountable design was selected and an Arduino was used to control the entire system. 
 
