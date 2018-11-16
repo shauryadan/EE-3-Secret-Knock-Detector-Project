@@ -12,3 +12,5 @@ handle could be both opened and closed. Other small components, such as LEDs for
 saving a new knock sequence, were added to the design as well, all of which were implemented on a breadboard.
 At the conclusion of the final project, multiple designs were cycled and a version of the above implementation, with a PVC pipe based door
 frame, was utilized successfully.
+
+![alt text](knock_detect.png)
