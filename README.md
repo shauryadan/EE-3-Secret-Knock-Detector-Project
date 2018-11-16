@@ -13,4 +13,6 @@ saving a new knock sequence, were added to the design as well, all of which were
 At the conclusion of the final project, multiple designs were cycled and a version of the above implementation, with a PVC pipe based door
 frame, was utilized successfully.
 
-![alt text](knock_detect.png)
+![alt text](knock_detect.jpg)
+
+Link to YouTube working model: https://www.youtube.com/watch?v=mg_SPeKW2Tc&t=4s
